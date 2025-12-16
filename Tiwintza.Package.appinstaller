@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/Mickel0822/instalador-tiwintza.git/Tiwintza.Package.appinstaller"
-	Version="1.0.21.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Uri="https://mickel0822.github.io/instalador-tiwintza/Tiwintza.Package.appinstaller"
+	Version="1.0.22.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="dd53192c-8e25-4b33-8f25-2570ded37171"
-		Version="1.0.21.0"
+		Version="1.0.22.0"
 		Publisher="CN=Tiwintza"
-		Uri="https://github.com/Mickel0822/instalador-tiwintza.git/Tiwintza.Package_1.0.21.0_Test/Tiwintza.Package_1.0.21.0_x64.msixbundle" />
+		Uri="https://mickel0822.github.io/instalador-tiwintza/Tiwintza.Package_1.0.22.0_Test/Tiwintza.Package_1.0.22.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
